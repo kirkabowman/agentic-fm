@@ -4925,7 +4925,7 @@
         "xmlAttr": "state",
         "flagStyle": true,
         "required": false,
-        "defaultValue": "True"
+        "defaultValue": "False"
       },
       {
         "xmlElement": "Query",
